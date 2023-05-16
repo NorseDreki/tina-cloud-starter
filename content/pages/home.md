@@ -1,6 +1,12 @@
 ---
 title: Tina Cloud Starter
 blocks:
+  - quote: >-
+      There are only two hard things in Computer Science: cache invalidation and
+      naming things.
+    author: Phil Karlton
+    color: primary
+    _template: testimonial
   - headline: Welcome to the Tina Starter
     text: >
       This project is set up to show you the basics of working with Tina. You're
@@ -56,6 +62,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
